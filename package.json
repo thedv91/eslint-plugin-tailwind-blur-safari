@@ -7,7 +7,10 @@
     "test": "node ./rules/blur.test.js"
   },
   "keywords": [],
-  "author": "Harry Duong<thedv91@gmail.com>",
+  "author": {
+    "name": "Harry Duong",
+    "email": "thedv91@gmail.com"
+  },
   "license": "ISC",
   "devDependencies": {
     "@typescript-eslint/rule-tester": "^6.13.2",
